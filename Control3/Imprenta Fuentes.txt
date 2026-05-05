@@ -1,0 +1,62 @@
+Descripción de la Organización (Imprenta Fuentes)
+
+Visión General:
+La empresa se dedica a la fabricación de carpetas, sobres, sacos (sobres grandes), papelería en general. Su mercado
+objetivo son clínicas y hospitales. Además en épocas festivas (18 sept y 24 dic) se venden tarjetas y sobres de los
+camiones recolectores de basura.
+
+Estructura (jerarquica):
+-Representante legal (gerente general) (1)
+-Secretaria administrativa (1)
+-Jefe de ventas y encargada de despacho (1)
+-Jefa de taller (1)
+-Operarios de taller (3)
+-Prensista sin contrato (1)
+
+Procesos Actuales Locales:
+-Imprentas (2)
+-Guillotina (1)
+-Excel para contabilidad y administración general (no oficial)
+-FreeHand (diseños)
+-Word (no oficial)
+
+Procesos Actuales Externos:
+-Imprenta (para carpetas) --> otra pyme
+-Troquel --> otra pyme
+
+Proveedores:
+-Papelera (3) --> tinta, papel, insumos de impresora, cintas de embalaje, cinta transferible, etc
+-Insumos pegamentos
+-Retirado de papel reciclado (compran el papel de la imprenta)
+-Librería (Artículos de oficina)
+-Distribuidora (Artículos de aseo)
+
+Crecimiento:
+-4 clientes fijos (clínicas y hospital)
+-Al mes entran 13 millones de pesos promedio 
+-En temporadas festivas aumentan estas entradas (sin boleta)
+
+
+Identificación del Problema:
+
+Puntos de Dolor:
+Los puntos que más tiempo quitan o más errores da es que hay errores de organización, por ejemplo en la distribución
+de tareas. Ya que hay poca claridad de quienes hay que obedecer y a quienes derivar las tareas. Por ejemplo hay
+una persona que hace lo mismo. Tambíen hace falta juntas directivas, ya que es una empresa familiar y las discuciones
+por temas de la empresa se dan en horarios extra laborales, cosa que no debe ser.
+Horarios laborales claros.
+También hay mucha tolerancia y mucha permisividad con los empleados, por ejemplo horas de llegada, permisos, etc.
+
+Impacto:
+-Desorden de inventario (medio)
+-Pérdida de dinero (medio)
+-Falta de efectividad (alto)
+-Ambiente labotal (alto)
+
+Intentos Previos:
+Se ha intentado solucionar este problema, pero no hay una intención verdadera con solucionarlo, ya que se derivan las
+responsabilidades unos a otros.
+
+Expectativas:
+Que cada uno tenga un rol establecido y se cumpla.
+
