@@ -1,5 +1,23 @@
-Lorenzo Cotta: Lider del equipo
-Samuel Aburto:
-Alonso Gonzáles:
-Carlos Cerda:
-David Ramírez:
+
+INTEGRANTES Y ROLES
+
+Lorenzo Cotta: Chief Systems (Product Owner/Líder de equipo)
+David Ramírez: Agile Operations Lead (Scrum Master)
+Samuel Aburto: Platform & Infrastructure Architect (Developer)
+Alonso Gonzáles: Verification & Validation (V&V) Engineer (Developer)
+Carlos Cerda: HCI & Interface Engineer (Developer)
+
+DESCRIPCIÓN DE ROLES
+
+• Chief Systems Engineer (Product Owner): Responsable de la ingeniería de requisitos y la alineación estratégica del proyecto. Su función principal es validar la trazabilidad entre el modelo arquitectónico 4+1 y las necesidades reales del negocio.  
+
+• Agile Operations Lead (Scrum Master): Encargado de la gestión de procesos ágiles y la seguridad de la información. Supervisa que la arquitectura de protección de datos y el control de acceso cumplan con los requisitos definidos.
+Su misión es asegurar que los flujos de trabajo entre Desarrollo y QA sean fluidos, eliminando cuellos de botella técnicos y garantizando que las entregas semanales respeten el cronograma crítico del proyecto.
+
+•Platform & Infrastructure Architect (Developer): Define los estándares técnicos y la infraestructura que el equipo de Desarrollo debe seguir. Supervisa la correcta implementación de la base de datos PostgreSQL y la integración con servicios externos, asegurando que la arquitectura soporte la escalabilidad y el rendimiento exigido.
+
+• Verification & Validation (V&V) Engineer (Developer): Encargado del aseguramiento de la lógica de negocio y la calidad del diseño. Su labor consiste en validar que los diagramas de actividades reflejen fielmente las reglas de flujo de producción establecidas (RF4, RF5).  
+No ejecuta las pruebas directamente, sino que supervisa y audita el trabajo del equipo de QA. Su función es definir el plan maestro de pruebas y validar que los resultados del equipo de QA aseguren la integridad de los datos y el cumplimiento de las reglas de negocio (como el cálculo de asistencia en RF3) antes de la liberación.
+
+• HCI & Interface Engineer (Developer): Responsable de la ingeniería de Interacción Humano-Computador. Su objetivo es garantizar el cumplimiento técnico de los estándares de accesibilidad y usabilidad definidos para el sistema.
+Supervisa que el equipo de Desarrollo cumpla con los estándares de ingeniería de factores humanos en la App Móvil. Además, se encarga de liderar la integración final de los módulos desarrollados, garantizando que la interfaz sea accesible para los operarios de la imprenta y que el sistema sea cohesivo.
